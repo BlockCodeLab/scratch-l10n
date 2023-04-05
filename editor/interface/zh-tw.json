@@ -506,5 +506,10 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
-    "gui.gui.defaultProjectTitle": "Scratch 專案"
+    "gui.gui.defaultProjectTitle": "Scratch 專案",
+    "gui.aboutMenu.about": "關於…",
+    "gui.aboutMenu.issue": "報告錯誤",
+    "gui.aboutModal.sponsor": "請我喝一杯咖啡",
+    "gui.aboutModal.coreVersion": "Scratch 版本: ",
+    "gui.aboutModal.version": "產品版本: "
 }

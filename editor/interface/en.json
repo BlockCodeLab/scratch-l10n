@@ -506,5 +506,10 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.aboutMenu.about": "About...",
+    "gui.aboutMenu.issue": "Report issue",
+    "gui.aboutModal.coreVersion": "Scratch version: ",
+    "gui.aboutModal.version": "Product version:",
+    "gui.aboutModal.sponsor": "Buy me a Coffee"
 }
