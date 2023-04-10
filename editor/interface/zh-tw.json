@@ -511,5 +511,15 @@
     "gui.aboutMenu.issue": "報告錯誤",
     "gui.aboutModal.sponsor": "請我喝一杯咖啡",
     "gui.aboutModal.coreVersion": "Scratch 版本: ",
-    "gui.aboutModal.version": "產品版本: "
+    "gui.aboutModal.version": "產品版本: ",
+    "gui.libraryTags.stage": "舞臺",
+    "gui.libraryTags.hardware": "硬件",
+    "gui.libraryTags.sensing": "傳感器",
+    "gui.libraryTags.media": "媒體",
+    "gui.libraryTags.kit": "套件",
+    "gui.libraryTags.robot": "機器人",
+    "gui.libraryTags.iot": "物聯網",
+    "gui.libraryTags.ai": "人工智能",
+    "gui.libraryTags.data": "數據",
+    "gui.libraryTags.utility": "工具"
 }

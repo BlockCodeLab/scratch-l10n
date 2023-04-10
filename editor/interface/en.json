@@ -511,5 +511,13 @@
     "gui.aboutMenu.issue": "Report issue",
     "gui.aboutModal.coreVersion": "Scratch version: ",
     "gui.aboutModal.version": "Product version:",
-    "gui.aboutModal.sponsor": "Buy me a Coffee"
+    "gui.aboutModal.sponsor": "Buy me a Coffee",
+    "gui.libraryTags.stage": "Stage",
+    "gui.libraryTags.hardware": "Hardware",
+    "gui.libraryTags.sensing": "Sensing",
+    "gui.libraryTags.media": "Media",
+    "gui.libraryTags.iot": "IoT",
+    "gui.libraryTags.ai": "AI",
+    "gui.libraryTags.data": "Data",
+    "gui.libraryTags.utility": "Utility"
 }
