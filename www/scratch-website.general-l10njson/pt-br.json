@@ -17,6 +17,7 @@
     "general.contactUs": "Fale conosco",
     "general.getHelp": "Busque Ajuda",
     "general.contact": "Contato",
+    "general.cookies": "Cookies",
     "general.done": "Pronto",
     "general.downloadPDF": "Baixe o PDF",
     "general.emailUs": "Envie-nos um email",
@@ -74,7 +75,7 @@
     "general.download": "Baixar",
     "general.password": "Senha ",
     "general.press": "Imprensa",
-    "general.projectsSelected": "Aba Projetos Selecionado",
+    "general.projectsSelected": "Aba Projetos Selecionada",
     "general.projectsNotS": "Projetos",
     "general.privacyPolicy": "Política de Privacidade",
     "general.projects": "Projetos",
@@ -93,7 +94,7 @@
     "general.startOver": "Recomeçar",
     "general.statistics": "Estatísticas",
     "general.studios": "Estúdios",
-    "general.studiosSelected": "Aba Estúdios Selecionado",
+    "general.studiosSelected": "Aba Estúdios Selecionada",
     "general.studiosNotS": "Estúdios",
     "general.support": "Recursos",
     "general.ideas": "Ideias",
@@ -164,7 +165,7 @@
     "registration.cantCreateAccount": "O Scratch não pôde criar sua conta.",
     "registration.checkOutResources": "Começar com o uso dos Recursos",
     "registration.checkOutResourcesDescription": "Explore materiais para educadores e instrutores escritos pela Equipe Scratch, incluindo <a href='/educators#resources'>dicas, tutoriais e guias</a>.",
-    "registration.checkOutResourcesDescriptionHTML": "Explore materiais para educadores e instrutores escritos pela Equipe Scratch, incluindo <a>dicas, tutoriais e guias</a>.",
+    "registration.checkOutResourcesDescriptionHTML": "Explore materiais para educadores e mediadores escritos pela Equipe Scratch, incluindo <a>dicas, tutoriais e guias</a>.",
     "registration.choosePasswordStepDescription": "Digite uma nova senha para sua conta. Você vai usar essa senha da próxima vez que entrar no Scratch.",
     "registration.choosePasswordStepTitle": "Crie uma senha",
     "registration.choosePasswordStepTooltip": "Não use seu nome ou outra coisa que seja fácil de adivinhar.",
@@ -429,5 +430,6 @@
     "extensions.otherComputerConnectedTitle": "Certifique-se que nenhum outro computador está conectado ao seu {deviceNameShort}",
     "extensions.otherComputerConnectedText": "Apenas um computador por vez pode estar conectado a {deviceName}. Se você tem outro computador conectado ao seu {deviceName}, desconecte-o de {deviceName} ou feche o Scratch naquele computador, e tente novamente.",
     "bluetooth.enableLocationServicesTitle": "Certifique-se de ativar serviços de localização em Chromebooks ou tablets Android",
-    "bluetooth.enableLocationServicesText": "Bluetooth pode ser usado para usar dados de localização no app. Além de garantir ao Aplicativo do Scratch permissão para acessar localização, isto também deve ser ativado nas configurações de seu dispositivo. Pesquise \"Localização\" em suas configurações, e certifique-se que esteja ligado. Em Chromebooks, pesquise \"Localização\" nas preferências da Google Play Store."
+    "bluetooth.enableLocationServicesText": "Bluetooth pode ser usado para usar dados de localização no app. Além de garantir ao Aplicativo do Scratch permissão para acessar localização, isto também deve ser ativado nas configurações de seu dispositivo. Pesquise \"Localização\" em suas configurações, e certifique-se que esteja ligado. Em Chromebooks, pesquise \"Localização\" nas preferências da Google Play Store.",
+    "privacyBanner.update": "The Scratch privacy policy has been updated, effective May 25, 2023. You can see the new policy <a>here</a>."
 }

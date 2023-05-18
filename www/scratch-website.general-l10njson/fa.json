@@ -1,6 +1,6 @@
 {
-    "general.status": "Filter Projects",
-    "general.languageChooser": "Select Language",
+    "general.status": "فیلتر پروژه‌ها",
+    "general.languageChooser": "زبان را انتخاب کنید",
     "general.accountSettings": "تنظیمات حساب کاربری",
     "general.about": "درباره",
     "general.aboutScratch": "درباره اسکرچ",
@@ -17,6 +17,7 @@
     "general.contactUs": "تماس با ما",
     "general.getHelp": "درخواست راهنمایی",
     "general.contact": "تماس با ما",
+    "general.cookies": "Cookies",
     "general.done": "انجام شد",
     "general.downloadPDF": "دانلود PDF",
     "general.emailUs": "به ما ایمیل بزنید",
@@ -114,9 +115,9 @@
     "general.notAvailableSubtitle": "ما نتوانستیم صفحه‌ای که شما دنبالش می‌گردید را پیدا کنیم. بررسی کنید که آدرس سایت را درست وارد کرده‌اید.",
     "general.seeAllComments": "مشاهده تمام دیدگاه‌ها",
     "general.all": "همه",
-    "general.allSelected": "All Selected",
+    "general.allSelected": "همه انتخاب شدند",
     "general.animations": "انیمیشن‌ها",
-    "general.animationsSelected": "Animations Selected",
+    "general.animationsSelected": "انیمیشن‌ها انتخاب شدند",
     "general.art": "هنر",
     "general.artSelected": "Art Selected",
     "general.games": "بازی‌ها",
@@ -429,5 +430,6 @@
     "extensions.otherComputerConnectedTitle": "مطمئن شوید که هیچ رایانه‌ی دیگری به {deviceNameShort} شما متصل نیست",
     "extensions.otherComputerConnectedText": "فقط یک رایانه می‌تواند در یک زمان به {deviceName} متصل شود. اگر رایانه دیگری به {deviceName} شما متصل شده است، {deviceName} را قطع کنید یا اسکرچ را در آن رایانه ببندید و دوباره امتحان کنید.",
     "bluetooth.enableLocationServicesTitle": "مطمئن شوید که سرویس لوکیشن روی کروم‌بوک یا تبلت اندرویدی‌تان فعال باشد.",
-    "bluetooth.enableLocationServicesText": "بلوتوث می‌تواند اطلاعات موقعیت مکانی را به نرم افزار بدهد. علاوه بر این برای آنکه نرم افزار اسکرچ اجازه دسترسی به موقعیت مکانی را داشته باشد، در تنظیمات دستگاه، باید موقعیت مکانی را فعال کنید. «موقعیت مکانی» و یا 'Location' را جستجو کنید و مطمئن شویدکه روشن است. در Chromebookها به دنبال 'location' در تنظیمات Google Play Store Android بگردید."
+    "bluetooth.enableLocationServicesText": "بلوتوث می‌تواند اطلاعات موقعیت مکانی را به نرم افزار بدهد. علاوه بر این برای آنکه نرم افزار اسکرچ اجازه دسترسی به موقعیت مکانی را داشته باشد، در تنظیمات دستگاه، باید موقعیت مکانی را فعال کنید. «موقعیت مکانی» و یا 'Location' را جستجو کنید و مطمئن شویدکه روشن است. در Chromebookها به دنبال 'location' در تنظیمات Google Play Store Android بگردید.",
+    "privacyBanner.update": "The Scratch privacy policy has been updated, effective May 25, 2023. You can see the new policy <a>here</a>."
 }
