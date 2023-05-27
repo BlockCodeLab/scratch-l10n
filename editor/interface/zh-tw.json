@@ -516,6 +516,7 @@
     "gui.aboutModal.coreVersion": "Scratch 版本: ",
     "gui.aboutModal.version": "產品版本: ",
     "gui.blocks.openDocumentation": "打開文檔",
+    "gui.blocks.selectBoard": "選擇開發板",
     "gui.libraryTags.stage": "舞臺",
     "gui.libraryTags.hardware": "硬件",
     "gui.libraryTags.sensing": "傳感器",
@@ -525,5 +526,10 @@
     "gui.libraryTags.iot": "物聯網",
     "gui.libraryTags.ai": "人工智能",
     "gui.libraryTags.data": "數據",
-    "gui.libraryTags.utility": "工具"
+    "gui.libraryTags.utility": "工具",
+    "gui.boardsModal.instructions": "選擇上面列出的開發板。",
+    "gui.boardsModal.selected": "已選擇",
+    "gui.boardsModal.reselect": "重新選擇",
+    "gui.boardsModal.select": "選擇",
+    "gui.boardsModal.boardNameLabel": "開發板名稱"
 }

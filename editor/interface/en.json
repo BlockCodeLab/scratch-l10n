@@ -516,6 +516,7 @@
     "gui.aboutModal.version": "Product version:",
     "gui.aboutModal.sponsor": "Buy me a Coffee",
     "gui.blocks.openDocumentation": "Open Documentation",
+    "gui.blocks.selectBoard": "Select Board",
     "gui.libraryTags.stage": "Stage",
     "gui.libraryTags.hardware": "Hardware",
     "gui.libraryTags.sensing": "Sensing",
@@ -525,5 +526,10 @@
     "gui.libraryTags.iot": "IoT",
     "gui.libraryTags.ai": "AI",
     "gui.libraryTags.data": "Data",
-    "gui.libraryTags.utility": "Utility"
+    "gui.libraryTags.utility": "Utility",
+    "gui.boardsModal.instructions": "Select your board in the list above.",
+    "gui.boardsModal.selected": "Selected",
+    "gui.boardsModal.reselect": "Reselect",
+    "gui.boardsModal.select": "Select",
+    "gui.boardsModal.boardNameLabel": "Board name"
 }

@@ -516,6 +516,7 @@
     "gui.aboutModal.version": "产品版本: ",
     "gui.aboutModal.sponsor": "请我喝一杯咖啡",
     "gui.blocks.openDocumentation": "打开文档",
+    "gui.blocks.selectBoard": "选择开发板",
     "gui.libraryTags.stage": "舞台",
     "gui.libraryTags.hardware": "硬件",
     "gui.libraryTags.sensing": "传感器",
@@ -525,5 +526,10 @@
     "gui.libraryTags.iot": "物联网",
     "gui.libraryTags.ai": "人工智能",
     "gui.libraryTags.data": "数据",
-    "gui.libraryTags.utility": "工具"
+    "gui.libraryTags.utility": "工具",
+    "gui.boardsModal.instructions": "选择上面列出的开发板。",
+    "gui.boardsModal.selected": "已选择",
+    "gui.boardsModal.reselect": "重新选择",
+    "gui.boardsModal.select": "选择",
+    "gui.boardsModal.boardNameLabel": "开发板名称"
 }
