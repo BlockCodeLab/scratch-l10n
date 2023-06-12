@@ -521,7 +521,7 @@
     "gui.libraryTags.hardware": "Hardware",
     "gui.libraryTags.sensing": "Sensing",
     "gui.libraryTags.actuation": "Actuation",
-    "gui.libraryTags.graphics": "Graphics",
+    "gui.libraryTags.display": "Display",
     "gui.libraryTags.robot": "Robot",
     "gui.libraryTags.iot": "IoT",
     "gui.libraryTags.ai": "AI",

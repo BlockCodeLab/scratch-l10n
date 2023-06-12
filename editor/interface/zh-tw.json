@@ -521,7 +521,7 @@
     "gui.libraryTags.hardware": "硬件",
     "gui.libraryTags.sensing": "傳感器",
     "gui.libraryTags.actuation": "執行器",
-    "gui.libraryTags.graphics": "圖像",
+    "gui.libraryTags.display": "顯示器",
     "gui.libraryTags.robot": "機器人",
     "gui.libraryTags.iot": "物聯網",
     "gui.libraryTags.ai": "人工智能",
